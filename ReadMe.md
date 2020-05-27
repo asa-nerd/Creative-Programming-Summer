@@ -1,3 +1,5 @@
 Code and Examples for my lecture ›Creative Programming‹ at the University of Art and Design Linz.
 
-The winter semester provides an introduction to basic programming procedures. P5 was chosen as the programming language for this introductionas it is rather accessible and JavaScript has gained relevance in recent years. The topic of the course is "Gaming". By creating simple arcade games, interaction, handling graphics and logic will be taught.
+The summer semester provides more detailed informations on strategies used in creative applications of code. The main tools are langueages of the Processing family (P5/JavaScript, Processing/Java), but Python might cross our path here and then. 
+
+The exact theme usually changes every year, but right now the focus is on producing Generative Art with the Pen Plotter.
